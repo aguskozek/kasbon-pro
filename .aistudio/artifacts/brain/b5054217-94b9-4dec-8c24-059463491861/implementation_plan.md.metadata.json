@@ -1,0 +1,6 @@
+{
+  "summary":  "Rencana komprehensif implementasi KASBON PRO untuk Android dengan arsitektur MVVM, Room Database offline-first, Jetpack Compose Material 3 (Light/Dark Mode via DataStore), pencetakan struk Bluetooth Thermal 58mm ESC/POS, integrasi WhatsApp, dan sistem backup Google Drive / JSON.",
+  "updatedAt":  "2026-10-21T09:22:06.268934470Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

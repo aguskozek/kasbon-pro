@@ -1,0 +1,6 @@
+{
+  "name": "Kasbon Pro",
+  "description": "Aplikasi manajemen kasbon UMKM, cicilan bertahap, cetak struk thermal Bluetooth 58mm, dan pengiriman bukti transaksi via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
